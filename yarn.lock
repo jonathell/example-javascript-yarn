@@ -2074,9 +2074,10 @@ timem@~1.1.0:
   version "1.1.2"
   resolved "https://registry.yarnpkg.com/timem/-/timem-1.1.2.tgz#fe93006c28253a8da5c49299306991fa4cc4f40c"
 
-tinymce@4.2.3:
-  version "4.2.3"
-  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-4.2.3.tgz#8d742fdc17026fac53e779a1a63ec2756e38965d"
+tinymce@6.8.4:
+  version "6.8.4"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-6.8.4.tgz#53e1313ebfe5524b24c0fa45937d51fda058632d"
+  integrity sha512-okoJyxuPv1gzASxQDNgQbnUXOdAIyoOSXcXcZZu7tiW0PSKEdf3SdASxPBupRj+64/E3elHwVRnzSdo82Emqbg==
 
 to-array@0.1.4:
   version "0.1.4"
